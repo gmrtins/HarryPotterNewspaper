@@ -13,6 +13,7 @@
 		543622CD2605117F00C832DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 543622CB2605117F00C832DC /* Main.storyboard */; };
 		543622CF2605118000C832DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 543622CE2605118000C832DC /* Assets.xcassets */; };
 		543622D22605118000C832DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 543622D02605118000C832DC /* LaunchScreen.storyboard */; };
+		543622DB260511C100C832DC /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 543622DA260511C100C832DC /* video.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		543622CE2605118000C832DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		543622D12605118000C832DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		543622D32605118000C832DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		543622DA260511C100C832DC /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		543622C42605117F00C832DC /* HarryPotterNewspaper */ = {
 			isa = PBXGroup;
 			children = (
+				543622DA260511C100C832DC /* video.mp4 */,
 				543622C52605117F00C832DC /* AppDelegate.swift */,
 				543622C72605117F00C832DC /* art.scnassets */,
 				543622C92605117F00C832DC /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				543622C82605117F00C832DC /* art.scnassets in Resources */,
+				543622DB260511C100C832DC /* video.mp4 in Resources */,
 				543622D22605118000C832DC /* LaunchScreen.storyboard in Resources */,
 				543622CF2605118000C832DC /* Assets.xcassets in Resources */,
 				543622CD2605117F00C832DC /* Main.storyboard in Resources */,
